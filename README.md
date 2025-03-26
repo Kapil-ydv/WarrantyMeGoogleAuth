@@ -27,7 +27,7 @@ This is a **full-stack web application** that allows users to **sign in with Goo
 
 ### **1️⃣ Clone the repository**  
 ```sh
-git clone https://github.com/R0hanNayan/WarrantyMe.git
+git clone (https://github.com/Kapil-ydv/WarrantyMeGoogleAuth.git)
 cd letter-editor
 ```
 
